@@ -9,7 +9,7 @@
 
 <br>
 
-Este é um repositório destinado à realização do primeiro desafio de projeto do curso "[Formação UI/UX Designer](https://web.dio.me/track/formacao-uiux-designer)", promovido pelo professor Rodrigo Alexandre, na plataforma DIO. O objetivo do desafio é a criação de um Wireframe de Média Fidelidade, voltado à temática educacional, aplicando os conceitos, leis e heurísticas aprendidos durante os primeiros módulos do curso.
+Este é um repositório destinado à realização do primeiro desafio de projeto do curso "[Formação UI/UX Designer](https://web.dio.me/track/formacao-uiux-designer)", promovido pelo professor Rodrigo Alexandre, na plataforma DIO. O objetivo do desafio é a criação de um Wireframe de Média Fidelidade, aplicando os conceitos, leis e heurísticas aprendidos durante os primeiros módulos do curso.
 
 <h2> Intenções do projeto </h2>
 <h3>As intenções do projeto são, especialmente, a primeira interação do aluno com uma prática comumente utilizada na área de Design de Produto (a criação de wireframes para guiar de forma consistente o desenvolvimento do projeto), e a aplicação de análises heurísticas, leis e fundamentos de Experiência do Usuário (UX), afim de lapidar as habilidades de design, promover ao cliente uma boa usabilidade, e enfim, o melhor cumprimento do desejo do cliente. </h3>
